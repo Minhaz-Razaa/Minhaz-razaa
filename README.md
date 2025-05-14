@@ -15,9 +15,9 @@
 
 ## 🌟 What I Do
 
-- 🔹 *Scalable Web Applications* – I build robust, production-ready apps using the MERN stack.  
-- 🔹 *Open-Source Advocate* – Active contributor to open-source projects, with a strong focus on community-driven development.  
-- 🔹 *Clean & Optimized Code* – Emphasize performance, readability, and maintainability in all my projects.
+ 🔹 *Scalable Web Applications* – I build robust, production-ready apps using the MERN stack.  
+ 🔹 *Open-Source Advocate* – Active contributor to open-source projects, with a strong focus on community-driven development.  
+ 🔹 *Clean & Optimized Code* – Emphasize performance, readability, and maintainability in all my projects.
 
 ---
 
