@@ -5,11 +5,11 @@
 ## 🛠 Tech Stack & Skills
 
 
-🔹Frontend: React.js, Next.js, Tailwind CSS
-🔹Backend: Node.js, Express.js
-🔹Database: MongoDB
-🔹Tools : VS Code, GitHub Actions, 
-🔹Other: TypeScript, Redux, Context API
+    🔹Frontend: React.js, Next.js, Tailwind CSS
+    🔹Backend: Node.js, Express.js
+    🔹Database: MongoDB
+    🔹Tools : VS Code, GitHub Actions, 
+    🔹Other: TypeScript, Redux, Context API
 
 
 🌟 What I Do
