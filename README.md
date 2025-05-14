@@ -1,5 +1,6 @@
-👋 Hey, I'm Minhaz razaa – MERN Stack Developer
-🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
+#👋 Hey, I'm Minhaz razaa – MERN Stack Developer
+
+####🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
 🛠 Tech Stack & Skills
 Frontend: React.js, Next.js, Tailwind CSS
